@@ -21,7 +21,7 @@ You may also need:
 
 Pyinstaller:
 Windows:
-pyinstaller --onefile --clean --noconsole --distpath=./Windows_exe --icon=RTK.ico --add-binary="ubxfwupdate.exe;." --add-binary="libMPSSE.dll;." --add-binary="flash.xml;." --add-binary="RTK.png;." RTK_u-blox_Update_GUI.py
+pyinstaller --onefile --clean --noconsole --distpath=./Windows_exe --icon=RTK.ico --add-binary="ubxfwupdate.exe;." --add-binary="libMPSSE.dll;." --add-binary="ftd2xx.dll;." --add-binary="flash.xml;." --add-binary="RTK.png;." RTK_u-blox_Update_GUI.py
 
 Pyinstaller needs:
 RTK_u-blox_Update_GUI.py (this file!)
