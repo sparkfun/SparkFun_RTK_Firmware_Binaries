@@ -1,3 +1,6 @@
-This folder contains the python based GUI for updating firmware. There is an executable available for Windows and a python script available for Linux, Mac OS, and Raspberry Pi.
+SparkFun RTK Firmware Uploader GUI
+===========================================================
 
-For more information, see [Updating Firmware From GUI](https://sparkfun.github.io/SparkFun_RTK_Firmware/firmware_update/#updating-firmware-from-gui).
+The RTK Firmware Uploader GUI has a new dedicated home at:
+
+* [SparkFun_RTK_Firmware_Uploader](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader).
