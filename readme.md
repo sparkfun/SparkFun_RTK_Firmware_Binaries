@@ -66,7 +66,7 @@ Repository Contents
 * **/bin** - Extra files (bootloader, partition, and boot) needed when using esp_tool.
 * **/PreviousVersion** - Older versions of the RTK firmware binaries, not recommended for use.
 * **/Uploader_GUI** - A link to the [RTK Uploader Repo](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader) which contains the GUI for updating the firmware on RTK units. See [Updating Firmware From GUI](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-firmware-using-windows-gui).
-* **/u-blox_Update_GUI** - A python and Windows executable GUI for updating the firmware on the u-blox modules within the RTK device (ZED-F9x and NEO-D9S primarily but all u-blox GNSS products are supported). See [Updating u-blox Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#zed-f9x-firmware).
+* **/u-blox_Update_GUI** - A python and Windows executable GUI for updating the firmware on the u-blox modules within the RTK device (ZED-F9x and NEO-D9S primarily but all u-blox GNSS products are supported). See [Updating u-blox Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-u-blox-firmware).
 * **/NEO Firmware** - Copies of Binaries from u-blox for loading onto NEO-D9S (used on RTK Facet L-Band)
 * **/ZED Firmware** - Copies of Binaries from u-blox for loading onto ZED-F9x
 
@@ -77,9 +77,9 @@ For building the firmware, see [Compiling Source](https://docs.sparkfun.com/Spar
 
 For the documentation, see [mkdocs.yml](https://github.com/sparkfun/SparkFun_RTK_Firmware/blob/main/mkdocs.yml) and [/workflows/mkdocs.yml](https://github.com/sparkfun/SparkFun_RTK_Firmware/blob/main/.github/workflows/mkdocs.yml).
 
-For building the Uploader_GUI see the header comments of [RTK_Firmware_Uploader_GUI.py](https://github.com/sparkfun/SparkFun_RTK_Firmware_Binaries/blob/main/Uploader_GUI/readme.md)
+For building the Uploader_GUI, please see the [dedicated RTK Uploader repo](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader)
 
-For building the u-blox_Update_GUI see the header comments of [RTK_u-blox_Update_GUI.py](https://github.com/sparkfun/SparkFun_RTK_Firmware_Binaries/blob/main/u-blox_Update_GUI/readme.md)
+For building the u-blox_Update_GUI see the header comments of [RTK_u-blox_Update_GUI.py](https://github.com/sparkfun/SparkFun_RTK_Firmware_Binaries/blob/main/u-blox_Update_GUI/RTK_u-blox_Update_GUI.py#L12-L33)
 
 
 License Information
