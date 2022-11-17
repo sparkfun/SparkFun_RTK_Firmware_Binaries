@@ -65,7 +65,7 @@ Repository Contents
 * **/** - Pre-compiled binaries of SparkFun RTK firmware, suitable for loading (see [Updating Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/)). 
 * **/bin** - Extra files (bootloader, partition, and boot) needed when using esp_tool.
 * **/PreviousVersion** - Older versions of the RTK firmware binaries, not recommended for use.
-* **/Uploader_GUI** - A python and Windows executable GUI for updating the firmware on RTK units. See [Updating Firmware From GUI](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-firmware-using-windows-gui).
+* **/Uploader_GUI** - A link to the [RTK Uploader Repo](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader) which contains the GUI for updating the firmware on RTK units. See [Updating Firmware From GUI](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-firmware-using-windows-gui).
 * **/u-blox_Update_GUI** - A python and Windows executable GUI for updating the firmware on the u-blox modules within the RTK device (ZED-F9x and NEO-D9S primarily but all u-blox GNSS products are supported). See [Updating u-blox Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#zed-f9x-firmware).
 * **/NEO Firmware** - Copies of Binaries from u-blox for loading onto NEO-D9S (used on RTK Facet L-Band)
 * **/ZED Firmware** - Copies of Binaries from u-blox for loading onto ZED-F9x
