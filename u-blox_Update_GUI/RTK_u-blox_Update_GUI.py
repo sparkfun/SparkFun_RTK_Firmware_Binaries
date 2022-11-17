@@ -30,6 +30,7 @@ RTK.png (icon for the GUI widget)
 ubxfwupdate.exe (copied from u-center v22.02)
 libMPSSE.dll (copied from u-center v22.02)
 flash.xml (copied from u-center v22.02)
+ftd2xx.dll
 
 MIT license
 
