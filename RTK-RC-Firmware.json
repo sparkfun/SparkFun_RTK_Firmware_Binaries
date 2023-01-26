@@ -1,8 +1,8 @@
 {
     "Configurations": [
         {
-            "Version": "2.7-Jan 19 2023",
-            "URL": "https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Firmware_Binaries/main/RTK_Surveyor_Firmware_RC-Jan_19_2023.bin"
+            "Version": "3.1-Jan 26 2023",
+            "URL": "https://raw.githubusercontent.com/sparkfun/SparkFun_RTK_Firmware_Binaries/main/RTK_Surveyor_Firmware_RC-Jan_26_2023.bin"
         }
     ]
 }
